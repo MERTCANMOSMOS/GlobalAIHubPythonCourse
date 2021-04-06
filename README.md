@@ -1,7 +1,7 @@
 # GAIH Student Repo Example
 ![](img/newlogo.png)
 
-**Course Date:** DD.MM.YYYY  
+**Course Date:** 5.04.2021  
 **Name:** Mertcan  
 **Surname:** MOSMOS  
 **Email:** mertcanmosmos@std.iyte.edu.tr
